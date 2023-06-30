@@ -17,3 +17,7 @@ Sejam bem vindos ao meu perfil!!
   <a href="https://discord.gg/mare" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/maria-vitória-oliveira-lopes-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mxrics&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dracula)
