@@ -20,5 +20,5 @@ Sejam bem vindos ao meu perfil!!
 
 ##
 
-![Snake animation](https://github.com/mxrics/mxrics/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mxrics/blob/output/github-contribution-grid-snake.svg)
 
