@@ -1,6 +1,6 @@
 ### Oiii sou maria vitória, iniciante em tecnologia e programação!
 
-###Sejam bem vindos ao meu perfil!!
+Sejam bem vindos ao meu perfil!!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="30" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="30" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="30" align="center" />
-<img src="https://icons8.com.br/icon/13654/ms-excel" width="40"height="30" align="center"/>
+<img src="https://images.app.goo.gl/G6KHNkYYiSNzYCMe6" width="40"height="30" align="center"/>
 </div>
   
   ##
