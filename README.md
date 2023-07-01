@@ -13,7 +13,7 @@ Sejam bem vindos ao meu perfil!!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="30" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="30" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="30" align="center" />
-<img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png"alt="Mari-Excel" align="center" width="40" height="30"/>
+<img src="https://github.com/sempostma/office365-icons/blob/master/png/64/excel.png"alt="Mari-Excel" align="center" width="30" height="30"/>
 </div>
   
   ##
