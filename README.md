@@ -13,7 +13,7 @@ Sejam bem vindos ao meu perfil!!
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="30" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="30" align="center"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="30" align="center" />
-<img src="https://images.app.goo.gl/G6KHNkYYiSNzYCMe6" width="40"height="30" align="center"/>
+<img src="https://images.app.goo.gl/AtiXjR5Aj34Hm5geA" width="40"height="30" align="center"/>
 </div>
   
   ##
