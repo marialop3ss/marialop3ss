@@ -1,4 +1,4 @@
-### Oiii sou maria vitória, iniciante em tecnologia e programação!
+### Oiii sou maria vitória, vivo aprendendo sobre tecnologia e programação!
 
 Sejam bem vindos ao meu perfil!!
 
