@@ -1,6 +1,6 @@
-### Oiii sou maria vitória, vivo aprendendo sobre tecnologia e programação!
+### Sou Maria Vitória, vivo aprendendo sobre tecnologia e programação!
 
-Sejam bem vindos ao meu perfil!!
+Sejam bem vindos ao meu perfil!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mari-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
