@@ -1,4 +1,4 @@
-### Sou Maria Vitória, vivo aprendendo sobre tecnologia e programação!
+### Sou Maria Vitória, estudante na área da tecnologia.
 
 Sejam bem vindos ao meu perfil!
 
